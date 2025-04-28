@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou o Hugo 👋
 
-<!--
-**Hugogabriel24/Hugogabriel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Formação em 2026)  
+🧠 Apaixonado por desenvolvimento Java Desktop, Java Web e Spring Boot  
+🎨 Entusiasta de design gráfico — também crio logotipos para empresas locais!  
+🌎 Sempre buscando aprender e evoluir na área de tecnologia.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que trabalho:
+- Java (Swing, JavaFX, Spring Boot)
+- Desenvolvimento Web (HTML, CSS)
+- Banco de Dados (MySQL)
+- Git e GitHub
+- Photoshop (Design Gráfico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Em evolução constante:
+- Boas práticas de desenvolvimento
+- Arquitetura de sistemas Java
+- Desenvolvimento Front-end e Back-end
+
+## 📈 Meus objetivos:
+- Criar sistemas úteis e eficientes para o dia a dia das empresas
+- Aprofundar meus conhecimentos em Java, Spring e tecnologias web
+- Compartilhar conhecimento e construir um portfólio sólido
+
+---
+
+> **"A tecnologia move o mundo, e o conhecimento abre o caminho."**
+
+🔗 Vamos nos conectar:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-gabriel-759a27226/)
