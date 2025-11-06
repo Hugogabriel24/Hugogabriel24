@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Hugo Gabriel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Formação em 2026)  
-💻 Desenvolvedor **Full Stack** apaixonado por criar soluções digitais completas e eficientes
+💻 Desenvolvedor **Full Stack**
 
 ---
 
